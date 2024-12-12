@@ -45,7 +45,7 @@ class Trip:
 
 
 flight = Flight(
-    flight_number="A123",
+    flight_number="REIS #2",
     departure_city="Bishkek",
     arrival_city="Moscow",
     departure_time=datetime.datetime(2024, 12, 12, 10, 30),
